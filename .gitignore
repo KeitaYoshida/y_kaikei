@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project dependencies
 .cache
 node_modules
@@ -8,3 +9,6 @@ yarn.lock
 # Build directory
 /public
 .DS_Store
+=======
+node_modules
+>>>>>>> temp1
